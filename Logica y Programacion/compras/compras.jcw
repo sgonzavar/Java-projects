@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>compras</label>
+		<id>32</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>compras.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>compras.jcp</path>
+		</project>
+	</projects>
+</workspace>
