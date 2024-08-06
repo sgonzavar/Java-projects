@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>vector_tres</label>
+		<id>13</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>vector_tres.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>vector_tres.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,4 @@
+tiago|Santiago|Gonzalez Vargas|000|1
+Pepe|Pedro|Infante|123|2
+maria|Maria|Conchita|123|1
+vale|valerio|zuluaga|123|1

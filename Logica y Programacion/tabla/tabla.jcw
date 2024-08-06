@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>tabla</label>
+		<id>23</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>tabla.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>tabla.jcp</path>
+		</project>
+	</projects>
+</workspace>

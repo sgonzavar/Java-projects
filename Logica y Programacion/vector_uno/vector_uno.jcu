@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>vector_uno</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>vector_uno</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\vector_uno.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\vector_dos\src\vector_dos.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\vacetor_4\vector_cuatro\src\vector_cuatro.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>src\vector_uno.java.sdk</path>
+			<symbols>
+				<symbol>vector_uno</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>..\vector_dos\src\vector_dos.java.sdk</path>
+			<symbols/>
+		</symboltable>
+		<symboltable>
+			<path>..\vacetor_4\vector_cuatro\src\vector_cuatro.java.sdk</path>
+			<symbols/>
+		</symboltable>
+	</symboltables>
+</workspace_user>

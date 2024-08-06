@@ -1,0 +1,4 @@
+1| Coca Cola x 350 ML |1200|0|Sonrrie
+2| Pan De Leche|800|1|Sabe mejor caliente
+3| Salchicho Zenu x 500 GR |3500|2|recomendado con limon
+4|Arepas|900|0|mejor con mantequilla y chocolate

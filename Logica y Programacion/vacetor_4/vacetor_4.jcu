@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>vector_cuatro</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>vacetor_4</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+		<project>
+			<label>vector_cuatro</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>vector_cuatro\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>vector_cuatro\src\vector_cuatro.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>..\vector_tres\src\vector_tres.java.sdk</path>
+			<symbols/>
+		</symboltable>
+		<symboltable>
+			<path>vector_cuatro\src\vector_cuatro.java.sdk</path>
+			<symbols>
+				<symbol>vector_4</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

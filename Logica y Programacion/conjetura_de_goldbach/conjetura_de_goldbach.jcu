@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>conjetura_de_goldbach</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>conjetura_de_goldbach</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\conjetura_de_goldbach.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>src\conjetura_de_goldbach.java.sdk</path>
+			<symbols>
+				<symbol>conjetura_de_goldbach</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

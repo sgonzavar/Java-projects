@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>uno</label>
+		<id>135</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>uno.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>uno.jcp</path>
+		</project>
+	</projects>
+</workspace>

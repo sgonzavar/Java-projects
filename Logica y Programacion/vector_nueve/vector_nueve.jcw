@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>vector_nueve</label>
+		<id>2</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>vector_nueve.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>vector_nueve.jcp</path>
+		</project>
+	</projects>
+</workspace>

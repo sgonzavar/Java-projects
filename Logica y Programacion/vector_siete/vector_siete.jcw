@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>vector_siete</label>
+		<id>41</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>vector_siete.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>vector_siete.jcp</path>
+		</project>
+	</projects>
+</workspace>

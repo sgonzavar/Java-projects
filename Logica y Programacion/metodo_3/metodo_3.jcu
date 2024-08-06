@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>metodo_3</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>metodo_3</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>..\..\..\JCreator LE\MyProjects\compras\src\compras.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\pascal_2\src\pascal_2.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>src\metodo_3.java.sdk</path>
+			<symbols>
+				<symbol>metodo_3</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>..\..\..\JCreator LE\MyProjects\compras\src\compras.java.sdk</path>
+			<symbols/>
+		</symboltable>
+		<symboltable>
+			<path>..\pascal_2\src\pascal_2.java.sdk</path>
+			<symbols/>
+		</symboltable>
+	</symboltables>
+</workspace_user>

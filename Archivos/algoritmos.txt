@@ -1,0 +1,115 @@
+import java.util.*; 
+public class numero 
+{
+
+    public static void main(String[] args) 
+    {Scanner leer = new Scanner (System.in);
+    int numero;
+    	
+    System.out.println(" Digiter numero");
+    numero = leer.nextInt();
+    if (numero >= 1 );
+    {System.out.println(" Es positivo ");
+     
+    
+          if (numero < 0 );
+          {System.out.println(" Es negativo ");
+             
+  
+               if (numero == 0 );
+                {System.out.println(" Es cero ");
+                }  
+          
+         }
+    }
+    }
+}
+    
+
+
+
+import java.util.*;
+public class peso 
+{
+    
+    public static void main(String[] args) 
+   {Scanner leer = new Scanner (System.in);
+    double esf_a,esf_b,esf_c;
+    
+    	System.out.println("Digite peso esfera A ");
+    	esf_a = leer.nextDouble();
+    	System.out.println("Digite peso esfera B ");
+        esf_b = leer.nextDouble();
+        System.out.println("Digite peso esfera C ");
+        esf_c = leer.nextDouble();
+          if ((esf_a > esf_b)&& (esf_a > esf_c) )    
+           {  System.out.println(" esfera A pesa mas que ByC ");
+           
+                  if ((esf_b > esf_a)&& (esf_b > esf_c) )    
+                  {  System.out.println(" esfera b pesa mas que AyC ");
+                
+    
+                        if ((esf_c > esf_a)&& (esf_c > esf_b) )    
+                        {   System.out.println(" esfera c pesa mas que AyB ");
+                     
+                        }  
+                  }
+           }
+    }
+}
+
+
+
+import java.util.*;
+ 
+public class compras
+{
+  public static void main(String[] args) 
+  	{Scanner leer = new Scanner (System.in);
+    double unidad,precio_unidad,compra,valor_bruto,valor_iva,descuento,valor_neto;
+      
+      System.out.println(" cantidad de unidades " );
+      unidad=leer.nextDouble ( );
+      System.out.println(" precio de unidad" );
+      precio_unidad=leer.nextDouble ( );
+      compra = unidad*precio_unidad;
+      
+      if (compra > 100000 )
+      { descuento = compra*0.15;   
+      }  
+      	 else 
+      	 { descuento = 0;
+         }
+     
+          valor_bruto = compra-descuento;
+          valor_iva = valor_bruto*0.16 ;
+          valor_neto = valor_bruto+valor_iva;
+   
+          System.out.println(" valor bruto " + valor_bruto );
+          System.out.println(" valor iva " + valor_iva );
+          System.out.println(" valor neto " + valor_neto );
+   
+   
+   
+   }
+}
+
+
+
+
+import java.util.*;
+ 
+public class operacion 
+{
+    public static void main(... 
+    	{Scanner Dato = new Scanner (system.in );
+    	double N1,N2,suma;
+    	System.out.print.ln("Digite numero 1")
+    		N1= Dato.nextDouble();
+    		System.out.print.ln("Digite numero2");
+    		N2= Dato.nextDouble();
+           suma= N1+N2; 
+            system.out.print.ln("la suma es ")+ suma;}
+
+
+
